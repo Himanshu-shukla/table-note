@@ -13,9 +13,11 @@ A basic Note taking app developed using [Mongo], [Express.js], [React.js] and [N
 
 ## Screenshots
 
-- [Screenshot/1.png]
-- [Screenshot/2.png]
-- [Screenshot/3.png]
+![1](/Screenshot/1.png)
+
+![2](/Screenshot/2.png)
+
+![3](/Screenshot/3.png)
 
 ### Installation steps
 - Clone repository using `git clone` command and use `cd ` command 
